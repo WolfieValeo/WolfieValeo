@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @WolfieValeo
 - 👀 I’m interested in coding, graphic design, and music.
 - 🌱 I’m currently learning Lua, HTML, CSS, and Java
-- 💞️ I’m looking to collaborate on my fiveM Server Wolf Pack Roleplay
-- 📫 How to reach me Discord: WolfieValeo#0001
+- 💞️ I’m looking to collaborate on my FiveM server Dream of Serenity Roleplay
+- 📫 How to reach me Discord: WolfieValeo
 - [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V66HKDK)
 
 <!---
